@@ -1,0 +1,15 @@
+{
+    "name": "jack/waterman",
+    "authors": [
+        {
+            "name": "waterman",
+            "email": "waterman@google.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WaterMan\\": "./"
+        }
+    }
+}
